@@ -55,3 +55,41 @@ A wireframe for a login page may include input fields for email and password, a 
 ---
 
 These elements work together to create a coherent, user-centered design framework. By defining them early in the process, wireframes ensure that teams focus on usability, efficiency, and clear communication before investing in high-fidelity visuals or development.
+
+
+## Types of Wireframes
+
+Wireframes can be categorized based on the level of detail and fidelity they provide. The two main types are:
+
+### Low-Fidelity Wireframes
+
+Low-fidelity (lo-fi) wireframes are simple, rough sketches of a user interface. They often use basic shapes like boxes and lines to represent elements such as buttons, images, and text.
+
+- **Purpose:** Used in early design stages to explore layout ideas quickly.
+- **Tools:** Pen and paper, or basic digital tools like Balsamiq.
+- **Benefits:** Fast, cost-effective, encourages feedback without focus on design details.
+
+**Example Use:** Brainstorming layout structures, initial client presentations.
+
+### High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes include more precise details, such as actual text, font sizes, spacing, and sometimes interactivity.
+
+- **Purpose:** Used in later stages to closely resemble the final product.
+- **Tools:** Design software like Figma, Adobe XD.
+- **Benefits:** Allows for detailed feedback, can be turned into clickable prototypes.
+
+**Example Use:** User testing, developer handoff, design approval.
+
+---
+
+## Wireframe Type Used in the Airbnb Clone Project
+
+The **Airbnb Clone Project** uses **high-fidelity wireframes**.
+
+These wireframes were created using **Figma** and are detailed in layout, typography, and component structure. They reflect the intended user interface closely, including interactive elements like buttons, cards, navigation bars, and forms.
+
+- **Why High-Fidelity?**
+  - The project requires detailed component planning.
+  - It supports accurate communication between design and development teams.
+  - It simulates the user experience as realistically as possible for prototyping and testing.
