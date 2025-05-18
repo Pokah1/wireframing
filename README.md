@@ -93,3 +93,25 @@ These wireframes were created using **Figma** and are detailed in layout, typogr
   - The project requires detailed component planning.
   - It supports accurate communication between design and development teams.
   - It simulates the user experience as realistically as possible for prototyping and testing.
+
+
+## Popular Wireframing Tools
+
+There are several tools available to help designers create wireframes efficiently. These tools range from simple sketching platforms to powerful design systems that support full prototyping. Some popular options include:
+
+- **Balsamiq:** Known for its low-fidelity, hand-drawn style. Great for quick sketching and ideation.
+- **Sketch:** A vector-based design tool primarily used on macOS. Useful for both wireframing and UI design.
+- **Adobe XD:** Offers features for both wireframing and interactive prototyping, suitable for teams within the Adobe ecosystem.
+- **Figma:** A cloud-based design tool ideal for collaborative wireframing and UI design.
+
+### Why Use Figma?
+
+**Figma** is highly recommended for wireframing due to the following features:
+
+- **Real-time collaboration:** Multiple team members can work on the same file simultaneously.
+- **Cross-platform access:** Works directly in the browser and also has desktop apps for both Windows and macOS.
+- **Component system:** Makes it easy to reuse design elements, maintain consistency, and speed up workflows.
+- **Prototyping tools:** Allows creation of interactive flows and mock user journeys.
+- **Version control and history:** Enables tracking changes over time, useful in team environments.
+
+Figma's flexibility and ease of use make it a powerful tool for creating both low-fidelity and high-fidelity wireframes in modern design workflows.
