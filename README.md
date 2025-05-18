@@ -115,3 +115,18 @@ There are several tools available to help designers create wireframes efficientl
 - **Version control and history:** Enables tracking changes over time, useful in team environments.
 
 Figma's flexibility and ease of use make it a powerful tool for creating both low-fidelity and high-fidelity wireframes in modern design workflows.
+
+
+## Benefits of Wireframing in Software Development
+
+Wireframing is an essential step in software development that provides multiple benefits:
+
+- **Guides the Design Process:** Wireframes outline the basic structure and layout of the application early on. This allows teams to focus on user flow and functionality without getting distracted by colors, fonts, or detailed visual design. By establishing a clear blueprint, wireframes help prevent costly changes later in development.
+
+- **Facilitates Communication:** Wireframes serve as a shared visual language between designers, developers, product managers, and stakeholders. They make it easier to convey ideas, gather feedback, and reach consensus. For example, tools like Figma enable real-time collaboration, so multiple team members can work together on wireframes simultaneously, enhancing alignment and reducing misunderstandings.
+
+- **Speeds Up Iteration:** Because wireframes are typically low-fidelity and quick to create, teams can rapidly prototype and test different ideas. This iterative process helps identify usability issues early and ensures the final product better meets user needs.
+
+- **Example - Figma Features:** Figma’s cloud-based platform supports live collaboration, version control, and reusable components. These features streamline teamwork and ensure design consistency across wireframes, making communication and iteration more effective throughout the development lifecycle.
+
+Overall, wireframing improves clarity, teamwork, and efficiency in software development projects.
